@@ -10,6 +10,7 @@ This repository includes an example of a shiny app that monitors a typical clini
        - Monitor tab: It contains important metrics for a simple clinical trial.
        - Death within 30 days tab: It contains metrics about the death of a patient in a trial.
        - Demographic tab: It contains metrics about the demographic of patients in a trial along with respective graphs (for easy viewing)
+  4. Download csv/pdf/copy files of the page you are viewing.
 
 **Description of dataset:**
   1. aelogyn.CSV: It contains information about whether a patient experience adverse event or not.
