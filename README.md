@@ -20,6 +20,12 @@ This repository includes an example of a shiny app that monitors a typical clini
   5. onstudy.CSV: It contains information about enrollment of patients into a study.
   6. subj.CSV: It contains information about patients in a study.
   
+**Sample screenshot**
+### Overall
+![plot](images/overall.png)
+  
+  
+  
 Demo [dataset](https://github.com/kennchin/shiny_app_monitor/tree/master/data) is provided for testing purposes in the data folder in this repository. 
 
 Note: Some functionality works better in the browser than Rstudio.
