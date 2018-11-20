@@ -1,0 +1,3 @@
+projectid,project,studyid,environmentName,subjectId,StudySiteId,Subject,siteid,Site,SiteNumber,SiteGroup,InstanceName,InstanceRepeatNumber,Folder,FolderName,FolderSeq,TargetDays,PageRepeatNumber,RecordDate,RecordActive,AEYN,AEYN_STD
+100,12345,320,Prod,13023,1120,A-B-3939392,2,Demo,DA231,World,Cycle 01,0,CYCLE,Cycle,2,,0,,1,No,2
+100,12345,320,Prod,30221,1120,L-M-2323231,2,Demo,DA231,World,Cycle 01,0,CYCLE,Cycle,2,,0,,1,Yes,1

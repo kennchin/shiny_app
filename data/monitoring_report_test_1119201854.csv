@@ -1,0 +1,5 @@
+"Subject","Date of Treatment","Number of Treatment","Total dose of Neratinib (mg)","Days from treatment to progression 
+ or if not progressed to the last contact date","Progression?","Progression Date","Overall Best Response (RECIST 1.1 Criteria)","Last Contact Date","Off Study Date","Off Study Reason","Off Treatment Date","Off Treatment Reason","Vital Status","Date of Death"
+"A-B-3939392","2016-01-23",3,5000,55,"Yes","03/18/16","Progressive Disease (PD)","01/27/17","2017-04-20",NA,"2017-03-20","Progression","Alive",NA
+"C-D-2323232","2017-12-03",3,5000,NA,NA,NA,NA,NA,"NA        ",NA,"NA        ",NA,NA,NA
+"L-M-2323231","2017-02-21",3,5000,NA,NA,NA,NA,NA,"NA        ",NA,"NA        ",NA,NA,NA
