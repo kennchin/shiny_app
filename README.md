@@ -10,5 +10,9 @@ Overview of the app:
        - Monitor tab: It contains important metrics for a simple clinical trial.
        - Death within 30 days tab: It contains metrics about the death of a patient in a trial.
        - Demographic tab: It contains metrics about the demographic of patients in a trial along with respective graphs (for easy viewing)
+
+Demo dataset is provided for testing purposes in the data folder in this repository.
+
+Note: Some functionality works better in the browser than Rstudio.
     
 
