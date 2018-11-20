@@ -1,4 +1,4 @@
-# Sample monitor report for clinical trials
+# Sample shiny app to monitor a portfolio of clinical trials
 
 This repository includes an example of a shiny app that monitors a typical clinical tria based on the user defined metrics.
 
